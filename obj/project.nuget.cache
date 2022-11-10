@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQjs0GSxKXqsRltk2Az1wIWYc9s5SPASI4itcyk3csWnz7GuPYjldF0M2oIA2JfGu9LCjWCf+VpDUTazNm9Vjg==",
+  "success": true,
+  "projectFilePath": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/APIadapter.csproj",
+  "expectedPackageFiles": [
+    "/Users/gerardoangeleshernandez/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/gerardoangeleshernandez/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/gerardoangeleshernandez/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/gerardoangeleshernandez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/gerardoangeleshernandez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/gerardoangeleshernandez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
