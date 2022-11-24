@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/APIadapter.csproj": {}
+    "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/Arquitectura-y-diseno-de-software/APIadapter/APIadapter.csproj": {}
   },
   "projects": {
-    "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/APIadapter.csproj": {
+    "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/Arquitectura-y-diseno-de-software/APIadapter/APIadapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/APIadapter.csproj",
+        "projectUniqueName": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/Arquitectura-y-diseno-de-software/APIadapter/APIadapter.csproj",
         "projectName": "APIadapter",
-        "projectPath": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/APIadapter.csproj",
+        "projectPath": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/Arquitectura-y-diseno-de-software/APIadapter/APIadapter.csproj",
         "packagesPath": "/Users/gerardoangeleshernandez/.nuget/packages/",
-        "outputPath": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/APIadapter/obj/",
+        "outputPath": "/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/9 nov/Arquitectura-y-diseno-de-software/APIadapter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gerardoangeleshernandez/.nuget/NuGet/NuGet.Config"
