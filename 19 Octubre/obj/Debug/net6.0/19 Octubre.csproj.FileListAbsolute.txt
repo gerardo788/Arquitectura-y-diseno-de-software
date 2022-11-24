@@ -1,0 +1,15 @@
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/bin/Debug/net6.0/19 Octubre
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/bin/Debug/net6.0/19 Octubre.deps.json
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/bin/Debug/net6.0/19 Octubre.runtimeconfig.json
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/bin/Debug/net6.0/19 Octubre.dll
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/bin/Debug/net6.0/19 Octubre.pdb
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.csproj.AssemblyReference.cache
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.AssemblyInfoInputs.cache
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.AssemblyInfo.cs
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.csproj.CoreCompileInputs.cache
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.dll
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/refint/19 Octubre.dll
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.pdb
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/19 Octubre.genruntimeconfig.cache
+/Users/gerardoangeleshernandez/Documentos Lap/Escuela/Profesional/ITC/Noveno Semestre/Diseño y arquitectura de software/Ejercicios de Clase/19 Octubre/obj/Debug/net6.0/ref/19 Octubre.dll
